@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "http://portfolio.williamjwhite.me/",
+  "start_url": "http://williamjwhite.me/portfolio/",
   "display": "standalone",
   "theme_color": "#087E87",
   "background_color": "#555"
